@@ -33,3 +33,5 @@ class isebsh():
 
 ISE_TEST = isebsh('192.168.82.21','admin','Ringnet01!')
 # ISE_TEST.get_NDG()
+
+#AAAA22
