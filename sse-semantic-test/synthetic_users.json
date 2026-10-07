@@ -1,0 +1,147 @@
+{
+  "test_id": "cisco-sse-semantic-20261007",
+  "synthetic": true,
+  "description": "Entirely fictional customer records for an authorized DLP test.",
+  "users": [
+    {
+      "user_id": "TEST-0001",
+      "name": "Test Customer 01",
+      "email": "customer01@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0002",
+      "name": "Test Customer 02",
+      "email": "customer02@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0003",
+      "name": "Test Customer 03",
+      "email": "customer03@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0004",
+      "name": "Test Customer 04",
+      "email": "customer04@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0005",
+      "name": "Test Customer 05",
+      "email": "customer05@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0006",
+      "name": "Test Customer 06",
+      "email": "customer06@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0007",
+      "name": "Test Customer 07",
+      "email": "customer07@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0008",
+      "name": "Test Customer 08",
+      "email": "customer08@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0009",
+      "name": "Test Customer 09",
+      "email": "customer09@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0010",
+      "name": "Test Customer 10",
+      "email": "customer10@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0011",
+      "name": "Test Customer 11",
+      "email": "customer11@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0012",
+      "name": "Test Customer 12",
+      "email": "customer12@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0013",
+      "name": "Test Customer 13",
+      "email": "customer13@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0014",
+      "name": "Test Customer 14",
+      "email": "customer14@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0015",
+      "name": "Test Customer 15",
+      "email": "customer15@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0016",
+      "name": "Test Customer 16",
+      "email": "customer16@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0017",
+      "name": "Test Customer 17",
+      "email": "customer17@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0018",
+      "name": "Test Customer 18",
+      "email": "customer18@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0019",
+      "name": "Test Customer 19",
+      "email": "customer19@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    },
+    {
+      "user_id": "TEST-0020",
+      "name": "Test Customer 20",
+      "email": "customer20@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. The customer requested a copy of their billing history and an update to their contact details. Access to this customer record is restricted to the assigned account team."
+    }
+  ]
+}
