@@ -1,0 +1,17 @@
+SSE MCP DLP TEST - SYNTHETIC DATA ONLY
+Test ID: SSETEST-20261014-PII01
+All identities are fictional. Card numbers are test values, not live accounts.
+
+Full name: Alex Example
+Email: alex.example@example.com
+Phone: +1-202-555-0101
+Address: 123 Example Street, Test City, ZZ 00000
+Date of birth: 1990-01-01
+Payment card test number: 4111111111111111
+
+Full name: Jamie Example
+Email: jamie.example@example.com
+Phone: +1-202-555-0102
+Address: 456 Example Avenue, Test City, ZZ 00000
+Date of birth: 1992-02-02
+Payment card test number: 5555555555554444
