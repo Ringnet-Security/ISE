@@ -1,0 +1,167 @@
+{
+  "synthetic": true,
+  "purpose": "Authorized Cisco SSE MCP data transfer test; all customer records are fictional.",
+  "generated_at_utc": "2026-10-20 23:46:55 UTC",
+  "customers": [
+    {
+      "customer_id": "LAB-0001",
+      "name": "Fictional Customer 1",
+      "email": "customer1@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1000
+    },
+    {
+      "customer_id": "LAB-0002",
+      "name": "Fictional Customer 2",
+      "email": "customer2@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1125
+    },
+    {
+      "customer_id": "LAB-0003",
+      "name": "Fictional Customer 3",
+      "email": "customer3@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1250
+    },
+    {
+      "customer_id": "LAB-0004",
+      "name": "Fictional Customer 4",
+      "email": "customer4@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1375
+    },
+    {
+      "customer_id": "LAB-0005",
+      "name": "Fictional Customer 5",
+      "email": "customer5@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1500
+    },
+    {
+      "customer_id": "LAB-0006",
+      "name": "Fictional Customer 6",
+      "email": "customer6@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1625
+    },
+    {
+      "customer_id": "LAB-0007",
+      "name": "Fictional Customer 7",
+      "email": "customer7@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1750
+    },
+    {
+      "customer_id": "LAB-0008",
+      "name": "Fictional Customer 8",
+      "email": "customer8@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 1875
+    },
+    {
+      "customer_id": "LAB-0009",
+      "name": "Fictional Customer 9",
+      "email": "customer9@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2000
+    },
+    {
+      "customer_id": "LAB-0010",
+      "name": "Fictional Customer 10",
+      "email": "customer10@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2125
+    },
+    {
+      "customer_id": "LAB-0011",
+      "name": "Fictional Customer 11",
+      "email": "customer11@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2250
+    },
+    {
+      "customer_id": "LAB-0012",
+      "name": "Fictional Customer 12",
+      "email": "customer12@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2375
+    },
+    {
+      "customer_id": "LAB-0013",
+      "name": "Fictional Customer 13",
+      "email": "customer13@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2500
+    },
+    {
+      "customer_id": "LAB-0014",
+      "name": "Fictional Customer 14",
+      "email": "customer14@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2625
+    },
+    {
+      "customer_id": "LAB-0015",
+      "name": "Fictional Customer 15",
+      "email": "customer15@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2750
+    },
+    {
+      "customer_id": "LAB-0016",
+      "name": "Fictional Customer 16",
+      "email": "customer16@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 2875
+    },
+    {
+      "customer_id": "LAB-0017",
+      "name": "Fictional Customer 17",
+      "email": "customer17@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 3000
+    },
+    {
+      "customer_id": "LAB-0018",
+      "name": "Fictional Customer 18",
+      "email": "customer18@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 3125
+    },
+    {
+      "customer_id": "LAB-0019",
+      "name": "Fictional Customer 19",
+      "email": "customer19@example.com",
+      "department": "Human Resources",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 3250
+    },
+    {
+      "customer_id": "LAB-0020",
+      "name": "Fictional Customer 20",
+      "email": "customer20@example.com",
+      "department": "Finance",
+      "customer_note": "Confidential customer account review. Billing history and contact information are restricted to the assigned account team.",
+      "account_balance_usd": 3375
+    }
+  ]
+}
