@@ -1,0 +1,1 @@
+Synthetic test record: TEST-0001. Status: LAB_ONLY.
