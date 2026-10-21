@@ -1,0 +1,26 @@
+{
+  "synthetic": true,
+  "description": "Fictional customer data for GitHub MCP write/read testing.",
+  "customers": [
+    {
+      "customer_id": "TEST-001",
+      "name": "김가상",
+      "company": "가상테크",
+      "email": "customer001@example.com",
+      "phone": "010-0000-0001",
+      "address": "테스트시 가상구 예시로 1",
+      "service": "Cisco ISE",
+      "status": "active"
+    },
+    {
+      "customer_id": "TEST-002",
+      "name": "이테스트",
+      "company": "테스트네트웍스",
+      "email": "customer002@example.com",
+      "phone": "010-0000-0002",
+      "address": "테스트시 가상구 예시로 2",
+      "service": "Cisco ISE",
+      "status": "trial"
+    }
+  ]
+}
